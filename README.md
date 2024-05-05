@@ -4,8 +4,18 @@
   <img src="https://images8.alphacoders.com/999/999765.jpg"> 
 </picture>
 
+## 👩🏻 About Me:
+
 - ### ***I'm currently doing 2nd year subjets of Computer Engineering at UNLP*** 👩🏻‍💻
+- ### ***In my free time I like to read, listen to music, exercise and eat*** 📚🎶🏃‍♀️🥪
 - ### ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, posting soon*** 😉
+
+## 📫 How to reach me: arianamagaliariza@gmail.com
+## 📚 Some books that I recommend:
+- ### ***"The Housekeeper and the Profesor" by Yoko Ogawa***
+- ### ***"Snow Flower and the Secret Fan" by Lisa See***
+- ### ***"A Midsummer's Night's Dream" by William Shakespeare***
+- ### ***Any book from the Discworld series by Terry Pratchett***
 
 <!--
 **ArianaMagaliAriza/ArianaMagaliAriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

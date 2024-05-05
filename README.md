@@ -1,4 +1,4 @@
-##                                           🧮📚✨🍒  Hi there, I'm Ariana ✨🍒📚🧮
+##                                                 🧮📚✨🍒  Hi there, I'm Ariana ✨🍒📚🧮
   
   - I'm currently doing 2nd year subjets of Computer Engineering at UNLP 👩🏻‍💻  
   - I'm working on repositories with exercise solutions of some subjects that I will, hopefully, posting soon 😉

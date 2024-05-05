@@ -1,7 +1,7 @@
   # <h1 align="center"> 🧮📚✨🍒  Hi there, I'm Ariana ✨🍒📚🧮 </h1>
   
-- ### ***I'm currently doing 2nd year subjets of Computer Engineering at UNLP 👩🏻‍💻***
-- ### ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, posting soon 😉***
+- ### ***I'm currently doing 2nd year subjets of Computer Engineering at UNLP*** 👩🏻‍💻
+- ### ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, posting soon*** 😉
 
 <!--
 **ArianaMagaliAriza/ArianaMagaliAriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

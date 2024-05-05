@@ -21,7 +21,7 @@
 
   <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0ZXlqeHd5YnZwOHRyMDRkYjU2bjVreG1ndWEyenM4dDMzYTM1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n8aCVo4RsN3kXLQ4B/giphy.gif" alt="animated" />
-
+  </p>
 <!--
 **ArianaMagaliAriza/ArianaMagaliAriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

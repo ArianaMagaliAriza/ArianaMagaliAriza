@@ -1,5 +1,9 @@
   # <h1 align="center"> 🧮📚✨🍒  Hi there, I'm Ariana ✨🍒📚🧮 </h1>
-  
+
+<picture>
+  <img src="https://images8.alphacoders.com/999/999765.jpg"> 
+</picture>
+
 - ### ***I'm currently doing 2nd year subjets of Computer Engineering at UNLP*** 👩🏻‍💻
 - ### ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, posting soon*** 😉
 
@@ -7,7 +11,7 @@
 **ArianaMagaliAriza/ArianaMagaliAriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://i.pinimg.com/originals/d2/a1/7d/d2a17d2bb2628f844036cd01524c8243.jpg
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

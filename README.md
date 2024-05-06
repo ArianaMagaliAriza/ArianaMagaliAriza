@@ -1,8 +1,7 @@
   # <h1 align="center"> 🧮📚✨🍒  Hi there, I'm Ariana ✨🍒📚🧮 </h1>
 
-<picture>
-  <img src="https://images8.alphacoders.com/999/999765.jpg"> 
-</picture>
+  <img align="center" src="https://images8.alphacoders.com/999/999765.jpg" width="70%"/> 
+
 
 ## 👩🏻 About Me:
 

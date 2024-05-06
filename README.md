@@ -6,7 +6,7 @@
 ## 👩🏻 About Me:
 
 -  ***I'm currently doing 2nd year subjets of Computer Engineering at UNLP*** 👩🏻‍💻 
--  ***In my free time I like to read, listen to music, exercise and eat*** 📚🎶🏃‍♀️🥪 
+-  ***In my free time I like to read, listen to music and sometimes play videogames*** 📚🎶
 -  ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, posting soon*** 😉  
 
 <p align="left">

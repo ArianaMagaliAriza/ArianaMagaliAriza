@@ -1,6 +1,6 @@
   # <h1 align="center"> 🧮📚✨🍒  Hi there, I'm Ariana ✨🍒📚🧮 </h1>
 <p align="center">
-  <img  src="https://images8.alphacoders.com/999/999765.jpg" width="80%"/> 
+  <img  src="https://images8.alphacoders.com/999/999765.jpg" width="60%"/> 
 </p>
 
 ## 👩🏻 About Me:
@@ -10,7 +10,7 @@
 -  ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, posting soon*** 😉  
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" height= 140 width=140/>
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" height= 140 width=140 />
 </p>
   
 ## 📫 How to reach me: arianamagaliariza@gmail.com  
@@ -23,7 +23,7 @@
 -  ***Any book from the Discworld series by Terry Pratchett***
 
   <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0ZXlqeHd5YnZwOHRyMDRkYjU2bjVreG1ndWEyenM4dDMzYTM1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n8aCVo4RsN3kXLQ4B/giphy.gif" alt="animated" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0ZXlqeHd5YnZwOHRyMDRkYjU2bjVreG1ndWEyenM4dDMzYTM1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n8aCVo4RsN3kXLQ4B/giphy.gif" alt="animated" height= 240 width=240//>
   </p>
 <!--
 **ArianaMagaliAriza/ArianaMagaliAriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

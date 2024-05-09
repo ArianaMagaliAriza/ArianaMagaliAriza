@@ -1,4 +1,4 @@
-  # <h1 align="center"> 🧮✨🍒  Hi there, I'm Ariana ✨🍒🧮 </h1>
+  # <h1 align="center"> ✨🍒  Hi there, I'm Ariana ✨🍒 </h1>
   <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" height= 200 width=200 />
 </p>

@@ -1,17 +1,14 @@
   # <h1 align="center"> 🧮✨🍒  Hi there, I'm Ariana ✨🍒🧮 </h1>
-<p align="center">
-  <img  src="https://images8.alphacoders.com/999/999765.jpg" width="60%"/> 
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" height= 200 width=200 />
 </p>
+
 
 ## 👩🏻 About Me:
 
 -  ***I'm currently doing 2nd year subjets of Computer Engineering at UNLP*** 👩🏻‍💻 
 -  ***In my free time I like to read, listen to music and sometimes play videogames*** 📚🎶
 -  ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, posting soon*** 😉  
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" height= 140 width=140 />
-</p>
   
 ## 📫 How to reach me:
 <p><a href="mailto:arianamagaliariza@gmail.com" target="_blank">
@@ -22,6 +19,11 @@
   <p><a href="" target="_blank">
 <img src=/>  
 <p/>
+imagen:
+------------------
+<p align="center">
+  <img  src="https://images8.alphacoders.com/999/999765.jpg" width="60%"/> 
+</p>
 -->
 
 <!--  

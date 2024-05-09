@@ -14,7 +14,7 @@
 </p>
   
 ## 📫 How to reach me:
-<p><a href="arianamagaliariza@gmail.com" target="_blank">
+<p><a href="mailto:arianamagaliariza@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/>  
 <p/>
 <!--

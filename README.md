@@ -14,10 +14,18 @@
 </p>
   
 ## 📫 How to reach me:
-<a href="arianamagaliariza@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />  
+<p><a href="arianamagaliariza@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/>  
+<p/>
+<!--
+## Public repositories:
+  <p><a href="" target="_blank">
+<img src=/>  
+<p/>
+-->
   
-## 📚 Some books that I recommend:
+## 📚 Some books that I recommend: 
+ 
 -  ***"The Housekeeper and the Profesor" by Yoko Ogawa***
 -  ***"Snow Flower and the Secret Fan" by Lisa See***
 -  ***"A Midsummer Night's Dream" by William Shakespeare***

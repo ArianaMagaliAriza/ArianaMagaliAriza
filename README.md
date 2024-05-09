@@ -13,7 +13,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" height= 140 width=140 />
 </p>
   
-## 📫 How to reach me: arianamagaliariza@gmail.com  
+## 📫 How to reach me:
+<a href="arianamagaliariza@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />  
   
 ## 📚 Some books that I recommend:
 -  ***"The Housekeeper and the Profesor" by Yoko Ogawa***

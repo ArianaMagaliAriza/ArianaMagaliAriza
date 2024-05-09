@@ -8,7 +8,7 @@
 
 -  ***I'm currently doing 2nd year subjets of Computer Engineering at UNLP*** 👩🏻‍💻 
 -  ***In my free time I like to read, listen to music and sometimes play videogames*** 📚🎶
--  ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, posting soon*** 😉  
+-  ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, be posting soon*** 😉  
   
 ## 📫 How to reach me:
 <p><a href="mailto:arianamagaliariza@gmail.com" target="_blank">

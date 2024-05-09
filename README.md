@@ -23,6 +23,23 @@
 <img src=/>  
 <p/>
 -->
+
+<!--  
+## <img alt="GIF" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />Github Stats:
+
+<div align="center">
+
+<a href="https://github.com/ArianaMagaliAriza">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianaMagaliAriza&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+</a>
+<a align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=ArianaMagaliAriza&show_icons=true&theme=dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ArianaMagaliAriza :: Profile Stats"/></a>
+</div>
+
+<br>
+<br>
+<br>
+
+-->
   
 ## 📚 Some books that I recommend: 
  

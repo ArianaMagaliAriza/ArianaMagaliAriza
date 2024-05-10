@@ -15,11 +15,12 @@
 <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/>  
 <p/>
 
-
+<!--
 ## 👩🏻‍💻 Public repositories:
   <p> <a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000000&title_color=#2ED0D1&icon_color=#2ED0D1&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>  
 <p/>
+-->
 
 <!--  
 ## <img alt="GIF" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />Github Stats:

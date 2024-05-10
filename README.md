@@ -11,20 +11,15 @@
 -  ***I'm working on repositories with exercise solutions of some subjects that I will, hopefully, be posting soon*** 😉  
   
 ## 📫 How to reach me:
-<p><a href="mailto:arianamagaliariza@gmail.com" target="_blank">
+<p> <a href="mailto:arianamagaliariza@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/>  
 <p/>
-<!--
-## Public repositories:
-  <p><a href="" target="_blank">
-<img src=/>  
+
+
+## 👩🏻‍💻 Public repositories:
+  <p> <a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000000&title_color=#2ED0D1&icon_color=#2ED0D1&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>  
 <p/>
-imagen:
-------------------
-<p align="center">
-  <img  src="https://images8.alphacoders.com/999/999765.jpg" width="60%"/> 
-</p>
--->
 
 <!--  
 ## <img alt="GIF" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />Github Stats:
@@ -36,12 +31,11 @@ imagen:
 </a>
 <a align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=ArianaMagaliAriza&show_icons=true&theme=dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ArianaMagaliAriza :: Profile Stats"/></a>
 </div>
-
 <br>
 <br>
 <br>
-
 -->
+
   
 ## 📚 Some books that I recommend: 
  
@@ -50,6 +44,7 @@ imagen:
 -  ***"A Midsummer Night's Dream" by William Shakespeare***
 -  ***"The Name of the Wind" by Patrick Rothfuss***
 -  ***Any book from the Discworld series by Terry Pratchett***
+
 
 <!--
 **ArianaMagaliAriza/ArianaMagaliAriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

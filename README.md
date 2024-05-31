@@ -1,6 +1,6 @@
   # <h1 align="center"> ✨🍒  Hi there, I'm Ariana ✨🍒 </h1>
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" height= 200 width=200 />
+  <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height= 400 width=800 />
 </p>
 
 
@@ -17,7 +17,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Public repositories:
   <p align="center"> <a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000000&title_color=#2ED0D1&icon_color=#2ED0D1&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>  
+    <img height="120" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000000&title_color=#E6160C&icon_color=#E6160C&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>  
 <p/>
 
 <!--  

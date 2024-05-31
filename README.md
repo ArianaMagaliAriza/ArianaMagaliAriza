@@ -1,6 +1,6 @@
   # <h1 align="center"> ✨🍒  Hi there, I'm Ariana ✨🍒 </h1>
   <p align="center">
-  <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height= 400 width=800 />
+  <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height= 300 width=720 />
 </p>
 
 

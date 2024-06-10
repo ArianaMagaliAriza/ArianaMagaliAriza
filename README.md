@@ -1,15 +1,14 @@
   # <h1 align="center"> ✨Hi there, I'm Ariana✨ </h1>
   <p align="center">
-  <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height= 300 width=720 />
+  <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height= 280 width=680 />
 </p>
 
 ## 👩🏻‍💻 Some technologies I know:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode,autocad)](https://skillicons.dev)
-## 👩🏻 About Me:
 
-- ### ***I'm currently doing 2nd year subjets of Computer Engineering at UNLP***  
-- ### ***I'm working on repositories with exercise solutions of some subjects from my career that I will, hopefully, be posting soon***
-- ### ***In my free time I like to read, listen to music and sometimes play videogames*** 
+ ### <p align="center"> I'm currently doing 2nd year subjets of Computer Engineering at UNLP <p> 
+ ### <p align="center"> I'm working on repositories with exercise solutions of some subjects from my career that I will, hopefully, be posting soon <p>
+ ### <p align="center"> In my free time I like to read, listen to music and sometimes play videogames <p>
   
 ## 📫 How to reach me:
 <p> <a href="mailto:arianamagaliariza@gmail.com" target="_blank">

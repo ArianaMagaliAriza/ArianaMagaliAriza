@@ -1,5 +1,5 @@
-  # <h1 align="center">Hi there, I'm Ariana 🙋🏻‍♀️✨ </h1>
-  <p align="center">
+# <h1 align="center">Hi there, I'm Ariana 🙋🏻‍♀️✨ </h1>
+<p align="center">
   <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height= 280 width=680 />
 </p>
 
@@ -11,9 +11,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode,autocad)](https://skillicons.dev)
 
 ## 📫 How to reach me:
-<p> <a href="mailto:arianamagaliariza@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/>  
-<p/>
+<a href="https://www.linkedin.com/in/ariana-magali-ariza-632337313/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px"/></a>&nbsp
+  <a href="mailto:arianamagaliariza@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/></a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Public repositories:
   <p align="center"> <a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">

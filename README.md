@@ -21,8 +21,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Public repositories:
   <p align="center"> <a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000000&title_color=E6160C&icon_color=E6160C&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>  
-<p/>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000000&title_color=E6160C&icon_color=E6160C&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/ArianaMagaliAriza/Python-Project.git" target="_blank">
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Python-Project&theme=react&bg_color=00000000&title_color=F3F706&icon_color=F3F706&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
+<p/> 
   
 <!--  
 ## <img alt="GIF" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />Github Stats:

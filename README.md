@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there, I'm Ariana 🙋🏻‍♀️✨</h1>
+# <h1 align="center">Hi there, I'm Ariana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand Light Skin Tone" width="40" height="40" />✨</h1>
 
  ### <p align="center"> I'm currently doing 2nd year subjets of Computer Engineering at UNLP <p> 
  ### <p align="center"> I'm working on repositories with exercise solutions of some subjects from my career that I will, hopefully, be posting soon <p>
@@ -15,7 +15,7 @@
   <a href="mailto:arianamagaliariza@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/></a>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Public repositories:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> Public repositories:
   <p align="center"> <a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000000&title_color=04CAE6&icon_color=04CAE6&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/ArianaMagaliAriza/Python-Project.git" target="_blank">

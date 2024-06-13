@@ -15,7 +15,7 @@
   <a href="mailto:arianamagaliariza@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/></a>&nbsp
 <a href="https://www.goodreads.com/user/show/90541748-ari" target="_blank">
-            <img  id="final" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"
+<img  id="final" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"
                 alt=goodreads style="margin-bottom: 5px"/></a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> Public repositories:

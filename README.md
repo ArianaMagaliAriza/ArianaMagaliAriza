@@ -32,7 +32,6 @@
 </p>
 
 <!--  
-
 ## <img alt="GIF" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />Github Stats:
 <p><a href="https://github.com/ArianaMagaliAriza">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianaMagaliAriza&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></a>
@@ -40,14 +39,8 @@
 </p>
 <br>
 <br>
-<br>
 
 **ArianaMagaliAriza/ArianaMagaliAriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-***"The Housekeeper and the Profesor" by Yoko Ogawa***<br>
-  ***"Snow Flower and the Secret Fan" by Lisa See***<br>
-  ***"A Midsummer Night's Dream" by William Shakespeare***<br>
-  ***"The Name of the Wind" by Patrick Rothfuss***<br>
-  ***Any book from the Discworld series by Terry Pratchett***<br>
 Here are some ideas to get you started:
 https://i.pinimg.com/originals/d2/a1/7d/d2a17d2bb2628f844036cd01524c8243.jpg
 - 🔭 I’m currently working on ...
@@ -55,7 +48,5 @@ https://i.pinimg.com/originals/d2/a1/7d/d2a17d2bb2628f844036cd01524c8243.jpg
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

@@ -17,15 +17,24 @@
   <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/></a>&nbsp
 <a href="https://www.goodreads.com/user/show/90541748-ari" target="_blank">
   <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt=goodreads style="margin-bottom: 5px"/></a>
-</p>
+</p><br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> Public repositories:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" alt="Hatching Chick" width="35" height="35" /> First Year Subjects of Computer Engineering:
 
-  <p align="center"><a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000000&title_color=04CAE6&icon_color=04CAE6&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/ArianaMagaliAriza/Python-Project.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Python-Project&theme=react&bg_color=00000000&title_color=F3F706&icon_color=F3F706&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
-<p/> 
+  <p align="center"><a href="https://github.com/ArianaMagaliAriza/Programacion-I--UNLP.git" target="_blank">
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I--UNLP&theme=react&bg_color=00000000&title_color=04CAE6&icon_color=04CAE6&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
+     <a href="https://github.com/ArianaMagaliAriza/Programacion-II--UNLP.git" target="_blank">
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II--UNLP&theme=react&bg_color=00000000&title_color=04CAE6&icon_color=04CAE6&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
+   <br><br></p>
+   
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Tipping%20Hand%20Light%20Skin%20Tone.png" alt="Woman Tipping Hand Light Skin Tone" width="35" height="35" /> Personal Projects:
+  <p align="center"><a href="https://github.com/ArianaMagaliAriza/Python-Project.git" target="_blank">
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Python-Project&theme=react&bg_color=00000000&title_color=F5EA06&icon_color=F5EA06&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
+     <a href="https://github.com/ArianaMagaliAriza/Personal-Project.git" target="_blank">
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Personal-Project&theme=react&bg_color=00000000&title_color=DF720A&icon_color=DF720A&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
+   <br><br></p>
+
+    
 <br>
   <p align="center">
   <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=650 />

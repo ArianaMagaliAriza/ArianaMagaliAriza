@@ -35,14 +35,12 @@
    <a href="https://github.com/ArianaMagaliAriza/Personal-Project.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Personal-Project&theme=react&bg_color=00000000&title_color=F19510&icon_color=F19510&hide_border=false&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>
-
     
 <br>
   <p align="center">
   <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=650 />
 </p>
-
-<!--  
+ 
 ## <img alt="GIF" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />Github Stats:
 <p><a href="https://github.com/ArianaMagaliAriza">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianaMagaliAriza&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></a>
@@ -51,6 +49,7 @@
 <br>
 <br>
 
+<!-- 
 **ArianaMagaliAriza/ArianaMagaliAriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 https://i.pinimg.com/originals/d2/a1/7d/d2a17d2bb2628f844036cd01524c8243.jpg

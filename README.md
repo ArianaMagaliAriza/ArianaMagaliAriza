@@ -31,7 +31,7 @@
    <br><br></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Baby%20Chick.png" alt="Baby Chick" width="40" height="40" /> Second Year Subjects of Computer Engineering:
-<p align="center">/ En Construcción /<p/> 
+<p align="center">/ Under construction /<p/> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Construction%20Worker.png" alt="Woman Construction Worker" width="35" height="35" />
 
 <!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rooster.png" alt="Rooster" width="55" height="55" /> Third Year Subjects of Computer Engineering:

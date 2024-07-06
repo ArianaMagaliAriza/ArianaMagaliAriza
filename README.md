@@ -29,6 +29,16 @@
      <a href="https://github.com/ArianaMagaliAriza/Programacion-II--UNLP.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II--UNLP&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=04CAE6&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Baby%20Chick.png" alt="Baby Chick" width="40" height="40" /> Second Year Subjects of Computer Engineering:
+<p align="center">/ En Construcción /<p/> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Construction%20Worker.png" alt="Woman Construction Worker" width="35" height="35" />
+
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rooster.png" alt="Rooster" width="55" height="55" /> Third Year Subjects of Computer Engineering:
+-->
+
+
+
    
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Tipping%20Hand%20Light%20Skin%20Tone.png" alt="Woman Tipping Hand Light Skin Tone" width="35" height="35" /> Personal Projects:
   <p align="center">&nbsp&nbsp&nbsp&nbsp

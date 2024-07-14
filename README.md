@@ -31,8 +31,9 @@
    <br><br></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Baby%20Chick.png" alt="Baby Chick" width="40" height="40" /> Second Year Subjects of Computer Engineering:
-<p align="center"><a href="https://github.com/ArianaMagaliAriza/CAC.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CAC&theme=react&bg_color=00000f&title_color=F86161&icon_color=F86161&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
+  <p>
+   <a href="https://github.com/ArianaMagaliAriza/CAC.git" target="_blank">
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CAC&theme=react&bg_color=00000f&title_color=F86161&icon_color=F86161&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
      <a href="https://github.com/ArianaMagaliAriza/Taller-de-Lenguajes-I.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-I&theme=react&bg_color=00000f&title_color=E139FC&icon_color=E139FC&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>

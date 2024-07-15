@@ -49,8 +49,8 @@
    <a href="https://github.com/ArianaMagaliAriza/Python-Project.git" target="_blank">
     <img height="110" width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Python-Project&theme=react&bg_color=00000f&title_color=F5EA06&icon_color=F5EA06&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
    &nbsp&nbsp&nbsp
-   <a href="https://github.com/ArianaMagaliAriza/Personal-Project.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Personal-Project&theme=react&bg_color=00000f&title_color=F19510&icon_color=F19510&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
+   <a href="https://github.com/ArianaMagaliAriza/Portfolio.git" target="_blank">
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Portfolio&theme=react&bg_color=00000f&title_color=F19510&icon_color=F19510&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
    <br><br></p>
     
 <br>

@@ -45,13 +45,10 @@
 
    
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Tipping%20Hand%20Light%20Skin%20Tone.png" alt="Woman Tipping Hand Light Skin Tone" width="35" height="35" /> Personal Projects:
-  <p align="center">&nbsp&nbsp&nbsp&nbsp
-   <a href="https://github.com/ArianaMagaliAriza/Python-Project.git" target="_blank">
-    <img height="110" width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Python-Project&theme=react&bg_color=00000f&title_color=F5EA06&icon_color=F5EA06&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
-   &nbsp&nbsp&nbsp
+  <p align="center">
    <a href="https://github.com/ArianaMagaliAriza/Portfolio.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Portfolio&theme=react&bg_color=00000f&title_color=F19510&icon_color=F19510&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
-   <br><br></p>
+    <img height="110" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Portfolio&theme=react&bg_color=00000f&title_color=F36A3F&icon_color=F36A3F&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
     
 <br>
   <p align="center">

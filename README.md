@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there, I'm Ariana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand Light Skin Tone" width="40" height="40" />✨</h1>
 
- ### <p align="center"> I'm currently doing 2nd year subjets of Computer Engineering at UNLP <p> 
+ ### <p align="center"> I'm currently doing 2nd year subjets of Computer Engineering at UNLP<p> 
  ### <p align="center"> I'm working on repositories with exercise solutions of some subjects from my career that I will, hopefully, be posting soon <p>
  ### <p align="center"> In my free time I like to read, listen to music and sometimes play videogames <p><br>
  
@@ -9,7 +9,7 @@
 ## 👩🏻‍💻 Some technologies I know:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode,github,autocad)](https://skillicons.dev)<br>
 ## 🍒 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,anaconda,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,anaconda,mysql,git)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>
 
 ## 📫 How to reach me:
@@ -41,9 +41,6 @@
 <!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rooster.png" alt="Rooster" width="55" height="55" /> Third Year Subjects of Computer Engineering:
 -->
 
-
-
-   
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Tipping%20Hand%20Light%20Skin%20Tone.png" alt="Woman Tipping Hand Light Skin Tone" width="35" height="35" /> Personal Projects:
   <p align="center">
    <a href="https://github.com/ArianaMagaliAriza/Portfolio.git" target="_blank">

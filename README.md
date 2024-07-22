@@ -1,8 +1,8 @@
 # <h1 align="center">Hi there, I'm Ariana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand Light Skin Tone" width="40" height="40" />✨</h1>
 
- ### <p align="center"> I'm currently doing 2nd year subjets of Computer Engineering at UNLP and learning<br> some Web Development skills by my own<p> 
- ### <p align="center"> I'm working on repositories with exercise solutions of some subjects from my career that I will, hopefully, be posting soon <p>
- ### <p align="center"> In my free time I like to read, listen to music and sometimes play videogames <p><br>
+ ### <p align="center"> I'm currently doing 2nd year subjets of Computer Engineering at UNLP<br> and learning some Web Development skills by my own<p> 
+ ### <p align="center"> I'm also working on repositories with some exercise solutions from subjects in my major<p>
+ ### <p align="center"> In my free time I like to read, listen to music and sometimes play videogames<p><br>
  
 <div align="center">
   

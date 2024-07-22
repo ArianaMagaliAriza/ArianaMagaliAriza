@@ -9,7 +9,7 @@
 ## 👩🏻‍💻 Some technologies I know:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,java,python,eclipse,vscode,github,autocad)](https://skillicons.dev)<br>
 ## 🍒 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,sqlite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mysql,mongodb,django,git)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>
 
 ## 📫 How to reach me:

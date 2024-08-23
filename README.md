@@ -27,12 +27,16 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" alt="Hatching Chick" width="35" height="35" /> First Year Subjects of Computer Engineering:
 
   <p align="center"><a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=04CAE6&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=04CAE61&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
      <a href="https://github.com/ArianaMagaliAriza/Programacion-II.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=04CAE6&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=04CAE61&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Baby%20Chick.png" alt="Baby Chick" width="40" height="40" /> Second Year Subjects of Computer Engineering:
+
+  <a href="https://github.com/ArianaMagaliAriza/CAC.git" target="_blank">
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-III&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=04CAE61&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
+    
   <p>
    <a href="https://github.com/ArianaMagaliAriza/CAC.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CAC&theme=react&bg_color=00000f&title_color=F86161&icon_color=F86161&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>

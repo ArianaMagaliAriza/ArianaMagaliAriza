@@ -27,21 +27,21 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" alt="Hatching Chick" width="35" height="35" /> First Year Subjects of Computer Engineering:
 
   <p align="center"><a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=04CAE61&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
      <a href="https://github.com/ArianaMagaliAriza/Programacion-II.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=04CAE61&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Baby%20Chick.png" alt="Baby Chick" width="40" height="40" /> Second Year Subjects of Computer Engineering:
 
   <a href="https://github.com/ArianaMagaliAriza/CAC.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-III&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=04CAE61&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-III&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
     
   <p>
    <a href="https://github.com/ArianaMagaliAriza/CAC.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CAC&theme=react&bg_color=00000f&title_color=F86161&icon_color=F86161&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CAC&theme=react&bg_color=00000f&title_color=ea0101&icon_color=970606&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
      <a href="https://github.com/ArianaMagaliAriza/Taller-de-Lenguajes-I.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-I&theme=react&bg_color=00000f&title_color=E139FC&icon_color=E139FC&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-I&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>
 
 <!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rooster.png" alt="Rooster" width="55" height="55" /> Third Year Subjects of Computer Engineering:
@@ -50,7 +50,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Tipping%20Hand%20Light%20Skin%20Tone.png" alt="Woman Tipping Hand Light Skin Tone" width="35" height="35" /> Personal Projects:
   <p align="center">
    <a href="https://github.com/ArianaMagaliAriza/Portfolio.git" target="_blank">
-    <img height="110" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Portfolio&theme=react&bg_color=00000f&title_color=F36A3F&icon_color=F36A3F&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
+    <img height="110" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Portfolio&theme=react&bg_color=00000f&title_color=F36A3F&icon_color=a33e08&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
   </p>
     
 <br>

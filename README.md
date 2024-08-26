@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,sqlite)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>
 ## 🐢 Will learn:
-[![My Skills](https://skillicons.dev/icons?i=react,mysql,mongodb,django,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mysql,mongodb,django,idea,spring)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 <p>

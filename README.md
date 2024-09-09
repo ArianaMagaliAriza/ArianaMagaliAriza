@@ -9,10 +9,10 @@
 ## 👩🏻‍💻 Some technologies I know:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,java,python,eclipse,vscode,github,autocad)](https://skillicons.dev)<br>
 ## 🧠 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,idea,sqlite)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>
 ## 🐢 Will learn:
-[![My Skills](https://skillicons.dev/icons?i=react,mysql,mongodb,django,idea,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mysql,mongodb,django,spring)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 <p>
@@ -34,7 +34,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Baby%20Chick.png" alt="Baby Chick" width="40" height="40" /> Second Year Subjects of Computer Engineering:
 
-  <a href="https://github.com/ArianaMagaliAriza/CAC.git" target="_blank">
+  <a href="https://github.com/ArianaMagaliAriza/Programacion-III.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-III&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
     
   <p>

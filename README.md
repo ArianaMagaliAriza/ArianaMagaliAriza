@@ -7,11 +7,11 @@
 <div align="center">
   
 ## 👩🏻‍💻 Some technologies I know:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,java,python,eclipse,vscode,vim,github,autocad)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,java,python,eclipse,vscode,linux,vim,github,autocad)](https://skillicons.dev)<br>
 ## 🧠 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,idea,sqlite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,idea,sqlite,git)](https://skillicons.dev)
 ## 🐢 Will learn:
-[![My Skills](https://skillicons.dev/icons?i=react,mysql,mongodb,django,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mysql,mongodb,django,spring,figma)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>
 
 ## 📫 How to reach me:

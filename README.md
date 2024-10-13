@@ -7,7 +7,7 @@
 <div align="center">
   
 ## 👩🏻‍💻 Some technologies I know:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,java,python,eclipse,vscode,linux,vim,github,autocad)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode,linux,vim,github,autocad)](https://skillicons.dev)<br>
 ## 🧠 Currently learning:
 [![My Skills](https://skillicons.dev/icons?i=bash,idea,sqlite,git)](https://skillicons.dev)
 ## 🐢 Will learn:
@@ -46,13 +46,6 @@
 
 <!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rooster.png" alt="Rooster" width="55" height="55" /> Third Year Subjects of Computer Engineering:
 -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Tipping%20Hand%20Light%20Skin%20Tone.png" alt="Woman Tipping Hand Light Skin Tone" width="35" height="35" /> Personal Projects:
-  <p align="center">
-   <a href="https://github.com/ArianaMagaliAriza/Portfolio.git" target="_blank">
-    <img height="110" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Portfolio&theme=react&bg_color=00000f&title_color=F36A3F&icon_color=a33e08&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
-  </p>
-    
 <br>
   <p align="center">
   <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=650 />

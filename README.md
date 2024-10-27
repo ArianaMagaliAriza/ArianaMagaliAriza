@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there, I'm Ariana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand Light Skin Tone" width="40" height="40" />✨</h1>
+# <h1 align="center">Hi there, I'm Ariana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand" width="40" height="40" />✨</h1>
 
  ### <p align="center"> I'm currently taking 2nd year subjets of Computer Engineering at UNLP<br> and learning some web development skills by my own<p> 
  ### <p align="center"> I'm also working on repositories with some exercise solutions from subjects in my career<p>
@@ -7,9 +7,9 @@
 <div align="center">
   
 ## 👩🏻‍💻 Some technologies I know:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode,linux,vim,github,autocad)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode,linux,bash,vim,github,autocad)](https://skillicons.dev)<br>
 ## 🧠 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=bash,idea,sqlite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,sqlite,git)](https://skillicons.dev)
 ## 🐢 Will learn:
 [![My Skills](https://skillicons.dev/icons?i=react,mysql,mongodb,django,spring,figma)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>

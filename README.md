@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there, I'm Ariana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand" width="40" height="40" />✨</h1>
 
- ### <p align="center"> I'm currently taking 2nd year subjets of Computer Engineering at UNLP<br> and learning some web development skills by my own<p> 
+ ### <p align="center"> I'm currently taking 3rd year subjets of Computer Engineering at UNLP<br> and learning some web development skills by my own<p> 
  ### <p align="center"> I'm also working on repositories with some exercise solutions from subjects in my career<p>
  ### <p align="center"> In my free time I like to read, listen to music and sometimes play videogames<p><br>
  
@@ -43,11 +43,20 @@
      <a href="https://github.com/ArianaMagaliAriza/Taller-de-Lenguajes-I.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-I&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br></p>
+   
+   <p>
    <a href="https://github.com/ArianaMagaliAriza/CSO.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CSO&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CSO&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    </p>
 
-<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rooster.png" alt="Rooster" width="55" height="55" /> Third Year Subjects of Computer Engineering:
+<!--
+ <a href="https://github.com/ArianaMagaliAriza/Taller-de-Lenguajes-II.git" target="_blank">
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-II.git&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
+    
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rooster.png" alt="Rooster" width="55" height="55" /> Third Year Subjects of Computer Engineering:
 -->
+
 <br>
   <p align="center">
   <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=650 />

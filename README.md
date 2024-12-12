@@ -7,9 +7,9 @@
 <div align="center">
   
 ## 👩🏻‍💻 Some technologies I know:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode,linux,bash,vim,github,autocad)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode,vim,bash,sqlite,linux,github,autocad)](https://skillicons.dev)<br>
 ## 🧠 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=sqlite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 ## 🐢 Will learn:
 [![My Skills](https://skillicons.dev/icons?i=react,mongodb,django,spring,figma)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>

@@ -8,9 +8,9 @@
   
 ## 👩🏻‍💻 Some technologies I know:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=vim,bash,sqlite,linux,github)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=vim,bash,sqlite,linux,git,github)](https://skillicons.dev)<br>
 ## 🧠 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=git,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 <!--## 🐢 Will learn:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,django,spring)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>-->
@@ -56,15 +56,17 @@
     
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rooster.png" alt="Rooster" width="55" height="55" /> Third Year Subjects of Computer Engineering:
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=620 />
+</p>
 -->
 
 <br>
-  <p align="center">
-  <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=650 />
-</p>
+  
 
 ## <img alt="GIF" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />Github Stats:
-<p>
- <a href="https://github.com/ArianaMagaliAriza"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianaMagaliAriza&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></a> &nbsp
-<a height="100px" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianaMagaliAriza&show_icons=true&theme=dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ArianaMagaliAriza :: Profile Stats"/></a>
+<p align=center>
+ <a href="https://github.com/ArianaMagaliAriza"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianaMagaliAriza&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"  alt="0xabdulkhalid"/></a><br><br>
+<a height="90px" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianaMagaliAriza&show_icons=true&theme=dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ArianaMagaliAriza :: Profile Stats"/></a>
 </p>

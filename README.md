@@ -33,7 +33,7 @@
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Baby%20Chick.png" alt="Baby Chick" width="40" height="40" /> Second Year Subjects of Computer Engineering:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" width="45" height="45" /> Second Year Subjects of Computer Engineering:
 
   <a href="https://github.com/ArianaMagaliAriza/Programacion-III.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-III&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>

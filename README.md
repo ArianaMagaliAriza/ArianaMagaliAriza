@@ -47,9 +47,9 @@
    
    <p>
    <a href="https://github.com/ArianaMagaliAriza/CSO.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CSO&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CSO&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ArianaMagaliAriza/Taller-de-Lenguajes-II.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-II&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-II&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
     <br><br>
     </p>
 

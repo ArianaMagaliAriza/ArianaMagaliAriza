@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt=goodreads style="margin-bottom: 5px"/></a>
 </p><br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" alt="Hatching Chick" width="35" height="35" /> First Year Subjects of Computer Engineering:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="45" height="45" />  First Year Subjects of Computer Engineering:
 
   <p align="center"><a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
@@ -33,7 +33,7 @@
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" width="45" height="45" /> Second Year Subjects of Computer Engineering:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deer.png" alt="Deer" width="65" height="65" />  Second Year Subjects of Computer Engineering:
 
   <a href="https://github.com/ArianaMagaliAriza/Programacion-III.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-III&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
@@ -52,17 +52,15 @@
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-II&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
     <br><br>
     </p>
-
-<!--
     
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rooster.png" alt="Rooster" width="55" height="55" /> Third Year Subjects of Computer Engineering:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="45" height="45" />  Third Year Subjects of Computer Engineering:
+<p align="center">//  Under construction :)  //</p>
+<br><br>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=620 />
 </p>
--->
-
 <br>
   
 

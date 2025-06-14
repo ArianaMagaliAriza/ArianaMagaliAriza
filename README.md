@@ -54,10 +54,10 @@
     </p>
     
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="45" height="45" />  Third Year Subjects of Computer Engineering:
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="45" height="45" />  Third Year Subjects of Computer Engineering:
 <p align="center">//  Under construction :)  //</p>
+-->
 <br><br>
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=620 />
 </p>

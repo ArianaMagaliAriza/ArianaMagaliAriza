@@ -55,7 +55,9 @@
     
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="45" height="45" />  Third Year Subjects of Computer Engineering:
-<p align="center"><img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Conceptos-de-Bases-de-Datos&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a></p>
+<p align="center">
+ <a href="https://github.com/ArianaMagaliAriza/Conceptos-de-Bases-de-Datos.git" target="_blank">
+ <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Conceptos-de-Bases-de-Datos&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a></p>
 
 <br><br>
 <p align="center">

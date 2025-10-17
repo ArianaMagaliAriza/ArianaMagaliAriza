@@ -7,7 +7,7 @@
 <div align="center">
   
 ## 👩🏻‍💻 Some technologies I know:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,python,eclipse,vscode)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,c,java,python,eclipse,vscode)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vim,bash,sqlite,linux,git,github)](https://skillicons.dev)<br>
 <!--## 🧠 Currently learning:
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)

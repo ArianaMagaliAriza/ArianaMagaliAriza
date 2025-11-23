@@ -1,8 +1,8 @@
 # <h1 align="center">Hi there, I'm Ariana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand" width="40" height="40" />✨</h1>
 
- ### <p align="center"> I'm currently taking 3rd year subjets of Computer Engineering at UNLP<br> and learning some web development skills by my own<p> 
- ### <p align="center"> I'm also working on repositories with some exercise solutions from subjects in my career<p>
- ### <p align="center"> In my free time I like to read, listen to music and sometimes play videogames<p><br>
+ ### <p align="center"> I'm a 4th year student of Computer Engineering at UNLP<p> 
+ ### <p align="center"> I do some projects from time to time and upload repositories with some<br> exercise solutions from subjects of my career<p>
+ ### <p align="center"> In my free time I read, listen to music and try to not lose my mind<p><br>
  
 <div align="center">
   
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/></a>&nbsp
 </p><br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="45" height="45" />  First Year Subjects of Computer Engineering:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Ewe.png" alt="Ewe" width="55" height="55" />  First Year Subjects of Computer Engineering:
 
   <p align="center"><a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
@@ -56,6 +56,10 @@
 <p align="center">
  <a href="https://github.com/ArianaMagaliAriza/Conceptos-de-Bases-de-Datos.git" target="_blank">
  <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Conceptos-de-Bases-de-Datos&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a></p>
+
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leopard.png" alt="Leopard" width="65" height="65" />  Fourth Year Subjects of Computer Engineering:
+<p align="center">
+ Comming Soon </p>
 
 <br><br>
 <p align="center">

@@ -6,7 +6,7 @@
  
 <div align="center">
   
-## 👩🏻‍💻 Some technologies I know:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" />  Some technologies I know:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,c,java,python,django,eclipse,vscode)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vim,bash,sqlite,linux,git,github)](https://skillicons.dev)<br>
 <!--## 🧠 Currently learning:
@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,django,spring)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>-->
 
-## 📫 How to reach me:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="35" height="35" /> How to reach me:
 <p>
 <a href="https://www.linkedin.com/in/ariana-magali-ariza-632337313/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px"/></a>&nbsp

@@ -1,4 +1,4 @@
-# <h1 align="center">  Hi there, I'm Ariana  </h1>
+# <h1 align="center">  Hi there! I'm Ariana  </h1>
 
  ### <p align="center"> I'm a 4th year student of Computer Engineering at UNLP<p> 
  ### <p align="center"> I do some projects from time to time and upload repositories with some<br> exercise solutions from subjects of my career<p>
@@ -6,7 +6,7 @@
  
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" />  Some technologies I know:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Open File Folder" width="35" height="35" />  Some technologies I know:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,c,java,python,django,eclipse,vscode)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vim,bash,sqlite,linux,git,github)](https://skillicons.dev)<br>
 <!--## 🧠 Currently learning:
@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,django,spring)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>-->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="35" height="35" /> How to reach me:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="45" height="45" /> How to reach me:
 <p>
 <a href="https://www.linkedin.com/in/ariana-magali-ariza-632337313/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px"/></a>&nbsp
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px"/></a>&nbsp
 </p><br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Ewe.png" alt="Ewe" width="55" height="55" />  First Year Subjects of Computer Engineering:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="50" height="50" />  First Year Subjects of Computer Engineering:
 
   <p align="center"><a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
@@ -31,7 +31,7 @@
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deer.png" alt="Deer" width="65" height="65" />  Second Year Subjects of Computer Engineering:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deer.png" alt="Deer" width="60" height="60" />  Second Year Subjects of Computer Engineering:
 
   <a href="https://github.com/ArianaMagaliAriza/Programacion-III.git" target="_blank">
     <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-III&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
@@ -57,11 +57,11 @@
  <a href="https://github.com/ArianaMagaliAriza/Conceptos-de-Bases-de-Datos.git" target="_blank">
  <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Conceptos-de-Bases-de-Datos&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a></p>
 
- <!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leopard.png" alt="Leopard" width="65" height="65" />  Fourth Year Subjects of Computer Engineering:
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger.png" alt="Tiger" width="70" height="70" />  Fourth Year Subjects of Computer Engineering:
 <p align="center">
  Comming Soon </p>
-
 <br><br>
+<!--
 <p align="center">
   <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=620 />
 </p>

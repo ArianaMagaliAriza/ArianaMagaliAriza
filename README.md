@@ -56,12 +56,11 @@
 <p align="center">
  <a href="https://github.com/ArianaMagaliAriza/Conceptos-de-Bases-de-Datos.git" target="_blank">
  <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Conceptos-de-Bases-de-Datos&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a></p>
-
+<!--
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger.png" alt="Tiger" width="70" height="70" />  Fourth Year Subjects of Computer Engineering:
 <p align="center">
  Comming Soon </p>
 <br><br>
-<!--
 <p align="center">
   <img src="https://i.pinimg.com/originals/18/83/de/1883de5bfee36b043b973bef00c561e0.gif" height=300 width=620 />
 </p>
@@ -70,6 +69,6 @@
 
 ## <img alt="GIF" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />Github Stats:
 <p align=center>
- <a href="https://github.com/ArianaMagaliAriza"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianaMagaliAriza&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></a><br><br>
+ <a href="https://github.com/ArianaMagaliAriza"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArianaMagaliAriza&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"  alt="0xabdulkhalid"/></a><br><br>
 <a height="100px" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArianaMagaliAriza&show_icons=true&theme=dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ArianaMagaliAriza :: Profile Stats"/></a>
 </p>

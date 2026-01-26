@@ -52,7 +52,7 @@
     </p>
     
 
- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dolphin.png" alt="Dolphin" width="55" height="55" />  Third Year Subjects of Computer Engineering:
+ ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leopard.png" alt="Leopard" width="70" height="70" /> Third Year Subjects of Computer Engineering:
 <p align="center">
  <a href="https://github.com/ArianaMagaliAriza/Conceptos-de-Bases-de-Datos.git" target="_blank">
  <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Conceptos-de-Bases-de-Datos&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a></p>

@@ -25,29 +25,30 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="50" height="50" />  First Year Subjects of Computer Engineering:
 
+ 
   <p align="center"><a href="https://github.com/ArianaMagaliAriza/Programacion-I.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-I&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=true" alt="readme-typing-svg"></a>
      <a href="https://github.com/ArianaMagaliAriza/Programacion-II.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-II&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br><br></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deer.png" alt="Deer" width="60" height="60" />  Second Year Subjects of Computer Engineering:
 
   <a href="https://github.com/ArianaMagaliAriza/Programacion-III.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-III&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
+    <img height="110" width="410" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Programacion-III&theme=react&bg_color=00000f&title_color=04CAE6&icon_color=0e7bb9&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a><br><br>
     
   <p>
    <a href="https://github.com/ArianaMagaliAriza/CAC.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CAC&theme=react&bg_color=00000f&title_color=ea0101&icon_color=970606&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CAC&theme=react&bg_color=00000f&title_color=ea0101&icon_color=970606&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
      <a href="https://github.com/ArianaMagaliAriza/Taller-de-Lenguajes-I.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-I&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-I&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
    <br></p>
    
    <p>
    <a href="https://github.com/ArianaMagaliAriza/CSO.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CSO&theme=react&bg_color=00000f&title_color=ebe10d&icon_color=ebe10d&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=CSO&theme=react&bg_color=00000f&title_color=ebe10d&icon_color=ebe10d&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/ArianaMagaliAriza/Taller-de-Lenguajes-II.git" target="_blank">
-    <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-II&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
+    <img height="110" width="410" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Taller-de-Lenguajes-II&theme=react&bg_color=00000f&title_color=E139FC&icon_color=9d0f98&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a>
     <br><br>
     </p>
     
@@ -55,7 +56,7 @@
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leopard.png" alt="Leopard" width="70" height="70" /> Third Year Subjects of Computer Engineering:
 <p align="center">
  <a href="https://github.com/ArianaMagaliAriza/Conceptos-de-Bases-de-Datos.git" target="_blank">
- <img height="110" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Conceptos-de-Bases-de-Datos&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a></p>
+ <img height="110" width="410" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArianaMagaliAriza&repo=Conceptos-de-Bases-de-Datos&theme=react&bg_color=00000f&title_color=7ae111&icon_color=7ae111&hide_border=false&border_color=292929&show_icons=false" alt="readme-typing-svg"></a></p>
 <!--
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger.png" alt="Tiger" width="70" height="70" />  Fourth Year Subjects of Computer Engineering:
 <p align="center">

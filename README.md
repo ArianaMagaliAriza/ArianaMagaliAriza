@@ -2,7 +2,6 @@
 
  ### <p align="center"> I'm a 4th year student of Computer Engineering at UNLP<p> 
  ### <p align="center"> I do some projects from time to time and upload repositories with some<br> exercise solutions from subjects of my career<p>
- ### <p align="center"> In my free time I read, listen to music and try to not lose my mind<p><br>
  
 <div align="center">
   

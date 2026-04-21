@@ -2,11 +2,11 @@
 
  ### <p align="center"> I'm a 4th year student of Computer Engineering at UNLP<p> 
  ### <p align="center"> I do some projects from time to time and upload repositories with some<br> exercise solutions from subjects of my career<p>
- <br>
+ <br><br>
  
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Open File Folder" width="35" height="35" />  Some technologies I know:
+## 📂 Some technologies I know:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,c,java,python,django,eclipse,vscode)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=vim,bash,sqlite,linux,git,github)](https://skillicons.dev)<br>
 <!--## 🧠 Currently learning:
@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,django,spring)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55"/>-->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="45" height="45" /> How to reach me:
+## 📫 How to reach me:
 <p>
 <a href="https://www.linkedin.com/in/ariana-magali-ariza-632337313/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px"/></a>&nbsp

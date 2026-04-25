@@ -1,4 +1,4 @@
-# <h1 align="center">  Hi there! I'm Ariana <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Woman Raising Hand Light Skin Tone" width="50" height="50" /></div>  </h1>
+# <h1 align="center">  Hi there! I'm Ariana  </h1>
 
  ### <p align="center"> I'm a 4th year student of Computer Engineering at UNLP<p> 
  ### <p align="center"> I do some projects from time to time and upload repositories with some<br> exercise solutions from subjects of my career<p>
